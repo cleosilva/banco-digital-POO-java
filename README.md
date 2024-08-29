@@ -81,16 +81,16 @@ javac Main.java
 java Main
 ```
 ### Funcionalidades Implementadas
-Criar uma conta corrente e uma conta poupança.
-Realizar depósitos, saques e transferências entre contas.
-Imprimir extratos detalhados de contas.
+* Criar uma conta corrente e uma conta poupança.
+* Realizar depósitos, saques e transferências entre contas.
+* Imprimir extratos detalhados de contas.
 
 ### Conceitos Abordados
-Herança: ContaCorrente e ContaPoupanca herdam de Conta.
-Abstração: A classe Conta é abstrata, permitindo a implementação de diferentes tipos de contas.
-Interfaces: IConta define o contrato para as operações bancárias.
-Encapsulamento: Atributos das classes são privados, acessados através de getters e setters.
-Composição: Uma Conta é composta por um Cliente.
+* Herança: ContaCorrente e ContaPoupanca herdam de Conta.
+* Abstração: A classe Conta é abstrata, permitindo a implementação de diferentes tipos de contas.
+* Interfaces: IConta define o contrato para as operações bancárias.
+* Encapsulamento: Atributos das classes são privados, acessados através de getters e setters.
+* Composição: Uma Conta é composta por um Cliente.
 
 ### Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
